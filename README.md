@@ -1,2 +1,26 @@
 # Techcrush-Technical-Writing--Portfolio
-As a research enthusiast, my journey at Techcrush is an attempt to polish my writing skills. Here i was able to develop the skills to create clear, concise, and user-friendly documentation for technical and non-technical audiences which are vital in research. 
+
+
+## Tools Utilized
+
+- Microsoft Word
+- Google Docs
+- Markdown
+- Git & GitHub
+- Postman
+
+## Skills Gained
+
+- Technical Documentation
+- Standard Operating Procedures (SOPs)
+- User Guides & Manuals
+- Process Documentation
+- Research & Content Development
+- Editing & Proofreading
+
+## Featured Projects
+
+- Standard Operating Procedures (SOPs)
+- User Documentation
+- Technical Guides
+- Process Documentation
